@@ -21,7 +21,7 @@ A full-stack web application with a modern frontend and robust backend.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/iTechnoSol.git
+git clone [https://github.com/yourusername/iTechnoSol.git](https://github.com/ParekhKunal/todo-list-task.git)
 cd iTechnoSol
 ```
 
